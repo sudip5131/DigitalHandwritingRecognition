@@ -15,7 +15,7 @@ Platform: Jupyter
 Programming Language: Python
 Libraries: Theano, Lasagne
 
-TEAM
+TEAM: 
 Ganesh Karki
 Sudip Maharjan
 Udip Parajuli
