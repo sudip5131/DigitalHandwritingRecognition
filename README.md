@@ -16,7 +16,7 @@ Programming Language: Python
 Libraries: Theano, Lasagne
 
 TEAM: 
-Ganesh Karki
-Sudip Maharjan
-Udip Parajuli
-Sandeep Gautam
+Ganesh Karki,
+Sudip Maharjan,
+Udip Parajuli,
+Sandeep Gautam.
